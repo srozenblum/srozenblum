@@ -1,4 +1,6 @@
-# Sebastián Rozenblum
+<p align="center">
+  <img src="./sebastian.png" width="600">
+</p>
 
 Bioinformatician with a background in biology.
 I use code and data as tools to explore questions 
