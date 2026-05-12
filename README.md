@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sebastian.png" width="600">
+  <img src="./sebastian.png" width="400">
 </p>
 
 Bioinformatician with a background in biology.
