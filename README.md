@@ -21,6 +21,11 @@ decision-support tool for clinicians.
 Local web app for fundamental analysis of dividend-paying stocks, 
 built around long-term value investing principles.
 
+**[ppi-network-clustering](https://github.com/srozenblum/ppi-network-clustering)**  
+Systems biology pipeline for PPI network construction, graph clustering, 
+and functional enrichment analysis of ALS-associated genes — comparing 
+Greedy, Girvan-Newman, and Infomap community detection algorithms.
+
 ---
 
 ## 🛠 Stack
